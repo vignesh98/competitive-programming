@@ -5,20 +5,9 @@
 
 using namespace std;
 int main(){
-    int a;
-    cin >> a;
-    if(a%2 == 0){
-        if(a>2){
-            cout << "YES";
-        }
-        else{
-            cout <<"NO";
-        }
-    }
-    else{
-
-        cout << "NO";
-    }
-
+    int number;
+    cout << "Enter a number";
+    cin >> number;
+    cout << " hello from visual studio code";
     return 0;
 }
