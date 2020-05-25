@@ -44,3 +44,4 @@
 # Unignore all dirs
 !*/
 *.out
+*.o
